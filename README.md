@@ -15,10 +15,10 @@ The example we use is to forecast the future price of Bitcoin based on historica
 
 (tbd)
 ```
-git clone https://github.com/
+git clone https://github.com/danielhkt/deep-forecasting.git
 conda create -n py39 python=3.9
 conda activate py39
-cd deep-forecast
+cd deep-forecasting
 pip install -r requirements.txt
 ```
 
