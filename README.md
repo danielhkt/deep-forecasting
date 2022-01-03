@@ -24,7 +24,8 @@ pip install -r requirements.txt
 
 ## Download Data
 
-Bitcoin historical price: https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
+[Bitcoin historical price](https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD)
+Create a 'data' folder for the downloaded file.
 
 ## Run in Notebook
 
